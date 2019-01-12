@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547301810 source:f:\facultatean4\securitateadatelor\playfair\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

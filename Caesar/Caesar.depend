@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540751848 source:f:\facultatean4\securitateadatelor\caesar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
