@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547319646 source:f:\facultatean4\securitateadatelor\autokey\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
