@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547322345 source:f:\facultatean4\securitateadatelor\foursquare\main.c
+	<stdio.h>
+	<string.h>
+
